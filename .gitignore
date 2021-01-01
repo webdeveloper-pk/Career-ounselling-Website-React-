@@ -1,0 +1,13 @@
+node_modules
+AboutComponent.js
+DishDetailComponent.js
+FooterComponent.js
+HomeComponent.js
+MenuComponent.js
+comments.js
+dishes.js
+leaders.js
+promotions.js
+App.css
+Index.css
+App.test.js

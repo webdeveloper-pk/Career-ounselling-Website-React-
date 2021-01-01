@@ -1,0 +1,28 @@
+{
+  "leaders": [
+    {
+      "id": 0,
+      "name": "Abdullah Rasheed",
+      "image": "images/abc.png",
+      "designation": "Corporate Trainer",
+      "abbr": "CEO",
+      "featured": false,
+      "description": " Abdullah Rasheed is a corporate Trainer and have a 5 year Experience in Network Marketting .He is also a Writer , Poet and a great Athlete.He is belong to Pakistan."
+    },
+   
+    {
+      "id": 3,
+      "name": "Owais Hassan",
+      "image": "images/alberto.png",
+      "designation": "Corporate Trainer",
+      "abbr": "EC",
+      "featured": true,
+      "description": "Owais Hassan is a corporate Trainer and have a 3 year Experience in Social Marketting .He is also a Singer , Poet and a great Crickter.He is belong to Pakistan. ."
+    }
+  ],
+
+
+  "feedback": [
+    
+  ]
+}
