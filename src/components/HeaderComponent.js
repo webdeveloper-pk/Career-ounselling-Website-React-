@@ -101,7 +101,7 @@ class Header extends Component {
               <Nav className="mt-2 ml-3" navbar>
                 <NavItem>
                   <button
-                    class="btn btn-outline-light ml-2 px-3"
+                    className="btn btn-outline-light ml-2 px-3"
                     onClick={this.toggleModal}
                   >
                     <span></span> Login
@@ -165,24 +165,25 @@ class Header extends Component {
                 or use a social network
               </div>
               <div className="d-flex justify-content-center social-buttons">
-                <button
+                 <button
                   type="button"
                   className="btn btn-dark btn-round "
                   data-toggle="tooltip"
                   data-placement="top"
-                  title="Twitter"
+                  title="facebook"
                 >
                   <i className="fa fa-twitter"></i>
                 </button>
                 <button
                   type="button"
-                  classNmae="btn btn-dark btn-round"
+                  className="btn btn-dark btn-round "
                   data-toggle="tooltip"
                   data-placement="top"
-                  title="Facebook"
+                  title="facebook"
                 >
-                  <i class="fa fa-facebook"></i>
+                  <i className="fa fa-facebook"></i>
                 </button>
+                
                 <button
                   type="button"
                   className="btn btn-dark btn-round"
